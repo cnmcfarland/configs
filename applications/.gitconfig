@@ -1,0 +1,9 @@
+[user]
+	name = Minseo
+	email = cnmcfarland@outlook.com
+[safe]
+	directory = E:/Documents/Projects/Homepages/cnmcfarland.github.io
+[core]
+	autocrlf = true
+[credential "https://huggingface.co"]
+	provider = generic
