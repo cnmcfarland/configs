@@ -1,0 +1,31 @@
+{
+  "JobAttributeManager.indeed.companyName.blockedJobAttributeValues": [
+    "Headway"
+  ],
+  "JobAttributeManager.indeed.companyName.blockedJobAttributeValues.backup": [],
+  "JobAttributeManager.indeed.keyword.blockedJobAttributeValues": [],
+  "JobAttributeManager.indeed.keyword.blockedJobAttributeValues.backup": [],
+  "JobAttributeManager.indeed.promotionalStatus.blockedJobAttributeValues": [],
+  "JobAttributeManager.indeed.promotionalStatus.blockedJobAttributeValues.backup": [],
+  "JobAttributeManager.linkedIn.companyName.blockedJobAttributeValues": [
+    "xAI",
+    "Alignerr",
+    "DataAnnotation",
+    "TELUS Digital",
+    "ComPsych",
+    "RemoteHunter",
+    "Lensa",
+    "Varsity Tutors, a Nerdy Company"
+  ],
+  "JobAttributeManager.linkedIn.companyName.blockedJobAttributeValues.backup": [],
+  "JobAttributeManager.linkedIn.keyword.blockedJobAttributeValues": [
+    "Viewed"
+  ],
+  "JobAttributeManager.linkedIn.keyword.blockedJobAttributeValues.backup": [],
+  "JobAttributeManager.linkedIn.promotionalStatus.blockedJobAttributeValues": [],
+  "JobAttributeManager.linkedIn.promotionalStatus.blockedJobAttributeValues.backup": [],
+  "JobDisplayManager.indeed.removeHiddenJobs": true,
+  "JobDisplayManager.linkedIn.removeHiddenJobs": true,
+  "recentSearchQueryJobBoardId": "linkedIn",
+  "showReleaseNotesAfterUpdate": true
+}
